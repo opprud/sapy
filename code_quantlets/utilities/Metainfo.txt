@@ -1,0 +1,17 @@
+Name of QuantLet: my_style
+
+Published in:  Hands-on Signal Analysis with Python
+
+Description: 'Common formatting and print commands, for the book "Hands-on
+    Signal Analysis with Python". These commands ensure a common layout, and reduce
+    the code required to generate plots in the other modules.'
+
+    To make the use simpler, this function is appearing in equivalent form in
+    the folders "code_quantlets" and in "figures"
+
+Keywords: utility function
+
+Author: Thomas Haslwanter 
+
+Submitted: June 2020
+
